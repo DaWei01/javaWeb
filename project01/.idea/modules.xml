@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crm/crm.iml" filepath="$PROJECT_DIR$/crm/crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project01.iml" filepath="$PROJECT_DIR$/project01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticWeb/staticWeb.iml" filepath="$PROJECT_DIR$/staticWeb/staticWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testMaven/testMaven.iml" filepath="$PROJECT_DIR$/testMaven/testMaven.iml" />
+    </modules>
+  </component>
+</project>
